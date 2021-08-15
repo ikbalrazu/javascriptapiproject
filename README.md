@@ -2,6 +2,8 @@
 
 # Note: Based on the user input, system will lookup in all the results if the given input matched at any position
 
+# Note: Datas are being fetched from https://jsonplaceholder.typicode.com/users
+
 ## This is a javascript project which searches user details based on search input.
 
 ### Live project link:
